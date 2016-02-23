@@ -3,3 +3,5 @@ The very first line
 
 Hello, World!
 Another line
+
+Line added in another branch
