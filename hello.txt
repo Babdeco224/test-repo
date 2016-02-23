@@ -1,2 +1,4 @@
 Hello, World!
 Another line
+
+Line added in another branch
