@@ -1,2 +1,5 @@
 Hello, World!
 Another line
+One more line!
+
+By the way, tell us the magic you do to exit Vi editor
