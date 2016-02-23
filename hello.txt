@@ -1,8 +1,8 @@
 The very first line
 ===================
 
-Hello, World!
-Another line
+Hello, Awesome World!
+Another awesome line
 One more line!
 
-By the way, tell us the magic you do to exit Vi editor
+By the way, don't tell us the magic you do to exit Vi editor
